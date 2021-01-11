@@ -25,7 +25,8 @@ body{
 main{
     width: 1090px;
     margin: 0 auto;
-   border: solid 2px red;
+    border-left:solid 2px #8b838331;
+    border-right:solid 2px #8b838331;
     padding: 10px;
 }
 .Food__section{
